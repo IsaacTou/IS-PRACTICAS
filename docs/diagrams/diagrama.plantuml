@@ -1,0 +1,10 @@
+@startuml Diagrama de clases prueba
+Class Car {
+    + brand : string
+}
+Class wheel 
+wheel --o Car
+
+
+
+@enduml
